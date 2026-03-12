@@ -22,7 +22,7 @@ I have professional experience in **Business Intelligence and Data-related proce
 
 ### Business Intelligence & Data Analytics
 
-During my work at **DB Regio AG** I worked on:
+During my work at **DB AG** I worked on:
 
 - Dashboard development using **Qlik Sense**
 - Documentation and implementation of data dashboards
