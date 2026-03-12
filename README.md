@@ -66,7 +66,6 @@ Qlik Sense
 SAP ERP / SAP SRM  
 BPMN  
 Microsoft Office
-
 Atlassian (Jira)
 ---
 
