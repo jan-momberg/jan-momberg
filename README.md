@@ -1,16 +1,104 @@
-## Hi there 👋
+# Hi, I'm Jan Momberg 👋
 
-<!--
-**jan-momberg/jan-momberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Informatics Student at TU Darmstadt  
+📊 Interested in Data Science, Artificial Intelligence and Quantitative Finance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am currently studying Computer Science at TU Darmstadt and developing strong skills in:
+
+- Data Analysis
+- Machine Learning
+- Financial Data Modeling
+- Artificial Intelligence
+
+I have professional experience in **Business Intelligence and Data-related processes** from my work in the railway and energy industries.
+
+---
+
+## Professional Experience
+
+### Business Intelligence & Data Analytics
+
+During my work at **DB Regio AG** I worked on:
+
+- Dashboard development using **Qlik Sense**
+- Documentation and implementation of data dashboards
+- Data research and reporting
+- Internal information systems (Intranet)
+
+### Process & Data Management
+
+Experience in:
+
+- Process modelling (BPMN)
+- Data documentation
+- SAP based data systems
+- Business data workflows
+
+---
+
+## Current Learning Focus
+
+- Python for Data Science
+- Machine Learning
+- Data Analysis with Pandas & NumPy
+- Git & GitHub
+- Financial Data Analysis
+
+---
+
+## Tech Stack
+
+Python  
+Pandas  
+NumPy  
+Scikit-Learn  
+Matplotlib  
+Git  
+GitHub  
+
+Tools:
+
+Qlik Sense  
+SAP ERP / SAP SRM  
+BPMN  
+Microsoft Office
+
+---
+
+## Areas of Interest
+
+- Data Science
+- Artificial Intelligence
+- Quantitative Finance
+- Financial Markets
+- Insurance Risk Modeling
+
+---
+
+## Projects (in progress)
+
+- Insurance Risk Prediction
+- Financial Data Analysis
+- Machine Learning Models
+- Data Visualization Projects
+
+---
+
+## Education
+
+**B.Sc. Computer Science**  
+Technische Universität Darmstadt
+
+---
+
+## Contact
+
+LinkedIn (coming soon)
+
+---
+
+⭐ Always learning and building new data-driven projects.
