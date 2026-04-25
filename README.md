@@ -1,8 +1,15 @@
 # Hi, I'm Jan Momberg 👋
 
-🎓 B.Sc. Informatics Student at TU Darmstadt  
-📊 Interested in Data Science, Artificial Intelligence and Quantitative Finance.
+Data Analyst focused on Finance, Risk Analytics and Business Intelligence.
 
+I build analytical projects using SQL, Python, Power BI and Streamlit to turn financial and business data into actionable insights.
+
+## 🎯 Focus Areas
+- Credit Risk Analytics
+- Banking & Insurance Data
+- Business Intelligence Dashboards
+- SQL-based Data Analysis
+- Interactive Data Apps
 ---
 
 ## About Me
