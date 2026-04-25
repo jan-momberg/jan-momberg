@@ -1,114 +1,88 @@
 # Hi, I'm Jan Momberg 👋
 
-Data Analyst focused on Finance, Risk Analytics and Business Intelligence.
+🎯 **Data Analyst focused on Finance, Risk Analytics & Business Intelligence**
 
-I build analytical projects using SQL, Python, Power BI and Streamlit to turn financial and business data into actionable insights.
-
-## 🎯 Focus Areas
-- Credit Risk Analytics
-- Banking & Insurance Data
-- Business Intelligence Dashboards
-- SQL-based Data Analysis
-- Interactive Data Apps
----
-
-## About Me
-
-I am currently studying Computer Science at TU Darmstadt and developing strong skills in:
-
-- Data Analysis
-- Machine Learning
-- Financial Data Modeling
-- Artificial Intelligence
-
-I have professional experience in **Business Intelligence and Data-related processes** from my work in the railway and energy industries.
+I build data-driven solutions using **SQL, Python, Power BI and Streamlit** to turn financial data into actionable insights.
 
 ---
 
-## Professional Experience
+## 🚀 Focus Areas
 
-### Business Intelligence & Data Analytics
-
-During my work at **DB AG** I worked on:
-
-- Dashboard development using **Qlik Sense**
-- Documentation and implementation of data dashboards
-- Data research and reporting
-- Internal information systems (Intranet)
-
-### Process & Data Management
-
-Experience in:
-
-- Process modelling (BPMN)
-- Data documentation
-- SAP based data systems
-- Business data workflows
+* Credit Risk Analytics
+* Banking & Insurance Data
+* Business Intelligence Dashboards
+* SQL-based Data Analysis
+* Interactive Data Applications
 
 ---
 
-## Current Learning Focus
+## 💼 Professional Experience
 
-- Python for Data Science
-- Machine Learning
-- Data Analysis with Pandas & NumPy
-- Git & GitHub
-- Financial Data Analysis
+**Business Intelligence & Data Analytics**
 
----
+Experience from working at DB AG and in the energy sector:
 
-## Tech Stack
+* Dashboard development using **Qlik Sense**
+* Data analysis, reporting and internal information systems
+* Documentation and implementation of BI solutions
 
-Python  
-Pandas  
-NumPy  
-Scikit-Learn  
-Matplotlib  
-Git  
-GitHub  
+**Process & Data Management**
 
-Tools:
-
-Qlik Sense  
-SAP ERP / SAP SRM  
-BPMN  
-Microsoft Office
-Power Bi
-
-
-Atlassian (Jira)
----
-
-## Areas of Interest
-
-- Data Science
-- Artificial Intelligence
-- Quantitative Finance
-- Financial Markets
-- Insurance Risk Modeling
+* Process modelling (**BPMN**)
+* Data documentation and workflows
+* Experience with **SAP ERP / SAP SRM**
 
 ---
 
-## Projects (in progress)
+## 🧠 Current Focus
 
-- Insurance Risk Prediction
-- Financial Data Analysis
-- Machine Learning Models
-- Data Visualization Projects
+* Python for Data Science
+* Machine Learning
+* Financial Data Analysis
+* Advanced SQL & Data Modeling
 
 ---
 
-## Education
+## 🛠️ Tech Stack
 
-**B.Sc. Computer Science**  
+**Languages & Libraries**
+
+* Python (pandas, NumPy, scikit-learn)
+* SQL
+
+**Data & BI Tools**
+
+* Power BI
+* Qlik Sense
+* Streamlit
+
+**Other Tools**
+
+* Git & GitHub
+* SAP ERP / SAP SRM
+* Jira (Atlassian)
+
+---
+
+## 📊 Featured Projects
+
+* 💳 Credit Risk Analytics Dashboard (Power BI)
+* 🧾 SQL Sales Analysis (PostgreSQL + Python + Streamlit)
+* 📊 Interactive Data Applications (Streamlit)
+
+---
+
+## 🎓 Education
+
+B.Sc. Computer Science
 Technische Universität Darmstadt
 
 ---
 
-## Contact
+## 📫 Contact
 
-LinkedIn (coming soon)
+* LinkedIn *(add soon)*
 
 ---
 
-⭐ Always learning and building new data-driven projects.
+⭐ Always building real-world data projects with a focus on finance and risk.
