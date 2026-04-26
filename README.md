@@ -1,6 +1,6 @@
 # Hi, I'm Jan Momberg 👋
 
-Junior Data & Reporting Candidate focused on Finance, Insurance and Business Intelligence.
+Data & Reporting Specialist (Junior) focused on Finance and Insurance
 
 I build practical data projects using SQL, Python, Power BI and Streamlit — with a focus on reporting, dashboards, data quality and risk analytics.
 
