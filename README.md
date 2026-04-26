@@ -1,88 +1,92 @@
 # Hi, I'm Jan Momberg 👋
 
-🎯 **Data Analyst focused on Finance, Risk Analytics & Business Intelligence**
+Junior Data & Reporting Candidate focused on Finance, Insurance and Business Intelligence.
 
-I build data-driven solutions using **SQL, Python, Power BI and Streamlit** to turn financial data into actionable insights.
-
----
-
-## 🚀 Focus Areas
-
-* Credit Risk Analytics
-* Banking & Insurance Data
-* Business Intelligence Dashboards
-* SQL-based Data Analysis
-* Interactive Data Applications
+I build practical data projects using SQL, Python, Power BI and Streamlit — with a focus on reporting, dashboards, data quality and risk analytics.
 
 ---
 
-## 💼 Professional Experience
+## Focus Areas
 
-**Business Intelligence & Data Analytics**
+- Insurance & Banking Data
+- Credit Risk Analytics
+- Business Intelligence Dashboards
+- SQL-based Data Analysis
+- Reporting & Data Quality
+- Interactive Data Applications
+
+---
+
+## Professional Experience
+
+### Business Intelligence & Data Analytics
 
 Experience from working at DB AG and in the energy sector:
 
-* Dashboard development using **Qlik Sense**
-* Data analysis, reporting and internal information systems
-* Documentation and implementation of BI solutions
+- Dashboard development using Qlik Sense
+- Data analysis, reporting and internal information systems
+- Documentation and implementation of BI solutions
+- Data research and reporting support
 
-**Process & Data Management**
+### Process & Data Management
 
-* Process modelling (**BPMN**)
-* Data documentation and workflows
-* Experience with **SAP ERP / SAP SRM**
-
----
-
-## 🧠 Current Focus
-
-* Python for Data Science
-* Machine Learning
-* Financial Data Analysis
-* Advanced SQL & Data Modeling
+- Process modelling with BPMN
+- Data documentation and workflows
+- Experience with SAP ERP / SAP SRM
+- Structured administrative and reporting processes
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages & Libraries**
+**Data & BI**
+- Excel
+- Power BI
+- Qlik Sense
+- Streamlit
 
-* Python (pandas, NumPy, scikit-learn)
-* SQL
+**Programming & Databases**
+- Python
+- SQL
+- PostgreSQL
+- pandas
+- NumPy
+- scikit-learn
 
-**Data & BI Tools**
-
-* Power BI
-* Qlik Sense
-* Streamlit
-
-**Other Tools**
-
-* Git & GitHub
-* SAP ERP / SAP SRM
-* Jira (Atlassian)
-
----
-
-## 📊 Featured Projects
-
-* 💳 Credit Risk Analytics Dashboard (Power BI)
-* 🧾 SQL Sales Analysis (PostgreSQL + Python + Streamlit)
-* 📊 Interactive Data Applications (Streamlit)
+**Business Tools**
+- SAP ERP / SAP SRM
+- Git & GitHub
+- BPMN 2.0
 
 ---
 
-## 🎓 Education
+## Featured Projects
 
-B.Sc. Computer Science
-Technische Universität Darmstadt
+### Credit Risk Analytics Dashboard
+Power BI dashboard for credit risk analysis, KPI reporting and risk segmentation.
+
+### SQL Sales Analysis
+End-to-end SQL and Python project with PostgreSQL, relational data modeling and Streamlit dashboard.
+
+### Numerical Methods in Python
+Implementation and analysis of classical numerical algorithms using Python and Jupyter Notebook.
 
 ---
 
-## 📫 Contact
+## Current Focus
 
-* LinkedIn *(add soon)*
+- Python for Data Analysis
+- SQL & Data Modeling
+- Power BI Dashboards
+- Financial and Insurance Data Analysis
 
 ---
 
-⭐ Always building real-world data projects with a focus on finance and risk.
+## Contact
+
+- GitHub: https://github.com/jan-momberg
+
+
+---
+
+Always building practical data projects with a focus on finance, insurance and risk.
